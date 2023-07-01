@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **i am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:+91 9561173535</h3>
 <p align="left">
 <a href="https://dev.to/pranav lolage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pranav lolage" height="30" width="40" /></a>
 <a href="https://fb.com/pranav lolage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranav lolage" height="30" width="40" /></a>
