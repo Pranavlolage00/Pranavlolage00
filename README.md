@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **B.B.A(C.A)**
+- 🌱 I’m currently learning :-**B.B.A(C.A)**
 
-- 💬 Ask me about **c-lang**
+- 💬 Ask me about :- **c-lang**
 
-- 📫 How to reach me **lolagepranav84@gmail.com**
+- 📫 How to reach me :-**lolagepranav84@gmail.com**
 
-- ⚡ Fun fact **i am funny**
+- ⚡ Fun fact :-**i am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:- +91 9561173535</h3>
 <p align="left">
 <a href="https://dev.to/pranavlolage00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pranavlolage00" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranav lolage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav lolage" height="30" width="40" /></a>
