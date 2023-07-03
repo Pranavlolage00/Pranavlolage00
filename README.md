@@ -14,7 +14,7 @@
 
 - 📫 How to reach me :-**lolagepranav84@gmail.com**
 
-- ⚡ Fun fact**I am in a relationship with studies, and it’s complicated**
+- ⚡ Fun fact **I am in a relationship with studies, and it’s complicated**
 
 <h3 align="left">Connect with me:- +91 9561173535</h3>
 <p align="left">
