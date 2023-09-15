@@ -2,13 +2,13 @@
 <h1 align="center">𝙷𝚒👋, 𝙸'𝚖 𝙿𝚛𝚊𝚗𝚊𝚟 𝙻𝚘𝚕𝚊𝚐𝚎</h1>
 <h3 align="center">A passionate B.B.A(C.A) Student from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
+<center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavlolage00&label=Profile%20views&color=0e75b6&style=flat" alt="pranavlolage00" /> </p>
-
+</center>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&stfor-the-badgeyle=" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **B.B.A(C.A)**
-
+- 🌱 I’m currently learning 𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 𝚝𝚘 𝚖𝚎 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗, 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚍𝚎𝚊𝚜, 𝚘𝚛 𝚊𝚗𝚢 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎-𝚛𝚎𝚕𝚊𝚝𝚎𝚍 𝚍𝚒𝚜𝚌𝚞𝚜𝚜𝚒𝚘𝚗𝚜. 𝙸 𝚊𝚖 𝚊𝚕𝚠𝚊𝚢𝚜 𝚎𝚡𝚌𝚒𝚝𝚎𝚍 𝚝𝚘 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚏𝚎𝚕𝚕𝚘𝚠 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢. 𝙻𝚎𝚝'𝚜 𝚋𝚞𝚒𝚕𝚍 𝚊𝚖𝚊𝚣𝚒𝚗𝚐 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛!
+*
 - 💬 Ask me about **c-lang**
 
 - 📫 How to reach me **lolagepranav84@gmail.com**
