@@ -38,7 +38,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pranavlolage00&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Today's Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
